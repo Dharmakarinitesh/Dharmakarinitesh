@@ -43,7 +43,7 @@
 ## 📫 Connect with Me  
 
 📧 **Email:** [dharmakarinithish@gmail.com](mailto:dharmakarinithish@gmail.com)  
-💼 **LinkedIn:** [Dharmakari Nithish](https://www.linkedin.com/indharmakarinithish)  
+💼 **LinkedIn:** [Dharmakari Nithish](https://www.linkedin.com/in/dharmakarinithish)  
 
 ---
 
