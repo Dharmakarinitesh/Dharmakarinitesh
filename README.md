@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Dharmakari Nithish!
 
-<!--
-**Dharmakarinitesh/Dharmakarinitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🎓 B.Tech Graduate (2023) from **Sri Indu College of Engineering & Technology**, Hyderabad  
+📌 Aspiring **Data Analyst**  
+💡 Passionate about **data insights, problem-solving, and continuous learning** through reading and exploration.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+
+**Programming Languages:**  
+🐍 Python | 🗃️ SQL  
+
+**Data Visualization:**  
+📊 Power BI  
+
+**Tools & Platforms:**  
+💻 Windows  
+
+---
+
+## 📂 Project  
+
+- 🔹 **[ETL Project](https://github.com/your-github-username/your-project-repo)**  
+  Performed ETL using Pandas and generated insights using Power BI and MySQL.  
+
+---
+
+## 🏆 Achievements  
+
+✅ Received **appreciation from TCS MasterCraft™ Data Plus**  
+✅ Achieved **847 rating on Chess.com**  
+
+---
+
+## 🌱 Interests  
+
+🏏 Cricket | ♟️ Chess | 📚 Reading Books  
+
+---
+
+## 📫 Connect with Me  
+
+📧 **Email:** [dharmakarinithish@gmail.com](mailto:dharmakarinithish@gmail.com)  
+💼 **LinkedIn:** [Dharmakari Nithish](https://www.linkedin.com/indharmakarinithish)  
+
+---
+
+> 💻 *“Data is not just numbers — it’s the story behind every decision.”* 🚀
