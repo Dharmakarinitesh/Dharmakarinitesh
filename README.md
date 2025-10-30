@@ -22,7 +22,7 @@
 
 ## 📂 Project  
 
-- 🔹 **[ETL Project](https://github.com/your-github-username/your-project-repo)**  
+- 🔹 **[ETL Project](https://github.com/Dharmakarinitesh/ETL)**  
   Performed ETL using Pandas and generated insights using Power BI and MySQL.  
 
 ---
